@@ -2,7 +2,7 @@
 
 Shows a Spanish expression from a list for you to translate into English
 
-This includes all expressions from the AQA specification for GCSE Spanish, divided by Modules, which are subdivided into sections.
+This includes all expressions from the AQA specification for GCSE Spanish, divided by 8 modules, which are subdivided into sections.
 
 Start by choosing a Module and a section, then you will encounter a random expression to translate.
 
