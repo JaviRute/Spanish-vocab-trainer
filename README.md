@@ -1,4 +1,4 @@
-# Spanish-vocab-trainer
+# Spanish Vocab Trainer
 
 Shows a Spanish expression from a list for you to translate into English
 
@@ -15,3 +15,5 @@ Other event binders are the Right-shift key for the 'Next' button and Enter for 
 You will also see a count of how many right answers you have and how many expressions are contained in that section.
 
 This app had a great reception from my GCSE students. Enjoy!
+
+![Spanish Vocab Trainer](spanish1.jpg)
